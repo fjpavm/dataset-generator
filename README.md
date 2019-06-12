@@ -1,11 +1,11 @@
-#Dataset Generator
+# Dataset Generator
 
 This repository contains the code for a simple dataset generator writen in Python 3. 
 The code was created to help reproduce a synthetic dataset similar to the one used for the Situation-Aware Fear Learning model tests in the paper 'A Situation-Aware Fear Learning (SAFEL) model for robots' by Rizzi Raymundo, Caroline & Johnson, Colin & Fabris, Fabio & Vargas, Patricia. (2016) Neurocomputing. 221 pages 32-47. DOI: [https://doi.org/10.1016/j.neucom.2016.09.035]
 
 May expand to more general functionality later
 
-##Usage
+## Usage
 
 `python3 generateDataset.py`
 
